@@ -12,16 +12,16 @@ import (
 	"fmt"
 	"time"
 
-	"go.mau.fi/whatsmeow/proto/waCommon"
-	"go.mau.fi/whatsmeow/proto/waE2E"
+	"github.com/HafidzEvermos/whatsmeow/proto/waCommon"
+	"github.com/HafidzEvermos/whatsmeow/proto/waE2E"
 
 	"go.mau.fi/util/random"
 	"google.golang.org/protobuf/proto"
 
-	"go.mau.fi/whatsmeow/types"
-	"go.mau.fi/whatsmeow/types/events"
-	"go.mau.fi/whatsmeow/util/gcmutil"
-	"go.mau.fi/whatsmeow/util/hkdfutil"
+	"github.com/HafidzEvermos/whatsmeow/types"
+	"github.com/HafidzEvermos/whatsmeow/types/events"
+	"github.com/HafidzEvermos/whatsmeow/util/gcmutil"
+	"github.com/HafidzEvermos/whatsmeow/util/hkdfutil"
 )
 
 type MsgSecretType string

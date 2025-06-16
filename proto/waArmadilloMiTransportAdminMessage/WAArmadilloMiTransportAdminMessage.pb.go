@@ -970,7 +970,7 @@ const file_waArmadilloMiTransportAdminMessage_WAArmadilloMiTransportAdminMessage
 	"\n" +
 	"themeEmoji\x18\x02 \x01(\tR\n" +
 	"themeEmojiB\t\n" +
-	"\acontentB>Z<go.mau.fi/whatsmeow/proto/waArmadilloMiTransportAdminMessage"
+	"\acontentB>Z<github.com/HafidzEvermos/whatsmeow/proto/waArmadilloMiTransportAdminMessage"
 
 var (
 	file_waArmadilloMiTransportAdminMessage_WAArmadilloMiTransportAdminMessage_proto_rawDescOnce sync.Once

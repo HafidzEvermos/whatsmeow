@@ -11,8 +11,8 @@ import (
 	"errors"
 	"time"
 
-	"go.mau.fi/whatsmeow/types"
-	"go.mau.fi/whatsmeow/util/keys"
+	"github.com/HafidzEvermos/whatsmeow/types"
+	"github.com/HafidzEvermos/whatsmeow/util/keys"
 )
 
 type NoopStore struct {
